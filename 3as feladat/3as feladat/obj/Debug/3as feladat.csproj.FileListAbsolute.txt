@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\obj\Debug\3as feladat.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\obj\Debug\3as feladat.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\bin\Debug\3as feladat.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\bin\Debug\3as feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\bin\Debug\3as feladat.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\obj\Debug\3as feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\3as feladat\3as feladat\obj\Debug\3as feladat.pdb
