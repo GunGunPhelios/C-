@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\obj\Debug\2es feladat.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\obj\Debug\2es feladat.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\bin\Debug\2es feladat.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\bin\Debug\2es feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\bin\Debug\2es feladat.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\obj\Debug\2es feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\2es feladat\2es feladat\obj\Debug\2es feladat.pdb

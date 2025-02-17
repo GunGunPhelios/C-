@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\obj\Debug\Dolgozatgyakorlat.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\obj\Debug\Dolgozatgyakorlat.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\bin\Debug\Dolgozatgyakorlat.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\bin\Debug\Dolgozatgyakorlat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\bin\Debug\Dolgozatgyakorlat.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\obj\Debug\Dolgozatgyakorlat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorlat\Dolgozatgyakorlat\obj\Debug\Dolgozatgyakorlat.pdb
