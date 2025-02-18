@@ -1,0 +1,2 @@
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat.2\11es feladat.2\obj\Debug\11es feladat.2.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat.2\11es feladat.2\obj\Debug\11es feladat.2.csproj.CoreCompileInputs.cache

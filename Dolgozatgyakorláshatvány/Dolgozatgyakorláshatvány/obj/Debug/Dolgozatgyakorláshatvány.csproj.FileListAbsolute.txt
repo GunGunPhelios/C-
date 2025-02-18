@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\bin\Debug\Dolgozatgyakorláshatvány.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\bin\Debug\Dolgozatgyakorláshatvány.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\bin\Debug\Dolgozatgyakorláshatvány.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\obj\Debug\Dolgozatgyakorláshatvány.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\obj\Debug\Dolgozatgyakorláshatvány.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\obj\Debug\Dolgozatgyakorláshatvány.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozatgyakorláshatvány\Dolgozatgyakorláshatvány\obj\Debug\Dolgozatgyakorláshatvány.pdb

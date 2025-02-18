@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\obj\Debug\11es feladat.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\obj\Debug\11es feladat.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\bin\Debug\11es feladat.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\bin\Debug\11es feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\bin\Debug\11es feladat.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\obj\Debug\11es feladat.exe
+C:\Users\Asus-01\Desktop\C-SHARP\11es feladat\11es feladat\obj\Debug\11es feladat.pdb
