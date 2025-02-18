@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\bin\Debug\gümölcsös.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\bin\Debug\gümölcsös.exe
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\bin\Debug\gümölcsös.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\obj\Debug\gümölcsös.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\obj\Debug\gümölcsös.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\obj\Debug\gümölcsös.exe
+C:\Users\Asus-01\Desktop\C-SHARP\gümölcsös\gümölcsös\obj\Debug\gümölcsös.pdb
