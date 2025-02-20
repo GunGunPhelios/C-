@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\bin\Debug\Smurfök.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\bin\Debug\Smurfök.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\bin\Debug\Smurfök.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\obj\Debug\Smurfök.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\obj\Debug\Smurfök.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\obj\Debug\Smurfök.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Smurfök\Smurfök\obj\Debug\Smurfök.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\bin\Debug\Vendéglista ViViÁgistb.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\bin\Debug\Vendéglista ViViÁgistb.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\bin\Debug\Vendéglista ViViÁgistb.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\obj\Debug\Vendéglista ViViÁgistb.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\obj\Debug\Vendéglista ViViÁgistb.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\obj\Debug\Vendéglista ViViÁgistb.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Vendéglista ViViÁgistb\Vendéglista ViViÁgistb\obj\Debug\Vendéglista ViViÁgistb.pdb

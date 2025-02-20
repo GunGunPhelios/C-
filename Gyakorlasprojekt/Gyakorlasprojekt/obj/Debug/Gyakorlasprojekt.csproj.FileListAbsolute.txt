@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\bin\Debug\Gyakorlasprojekt.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\bin\Debug\Gyakorlasprojekt.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\bin\Debug\Gyakorlasprojekt.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\obj\Debug\Gyakorlasprojekt.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\obj\Debug\Gyakorlasprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\obj\Debug\Gyakorlasprojekt.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Gyakorlasprojekt\Gyakorlasprojekt\obj\Debug\Gyakorlasprojekt.pdb
