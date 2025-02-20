@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\bin\Debug\Dolgozat feladat1.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\bin\Debug\Dolgozat feladat1.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\bin\Debug\Dolgozat feladat1.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\obj\Debug\Dolgozat feladat1.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\obj\Debug\Dolgozat feladat1.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\obj\Debug\Dolgozat feladat1.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Dolgozat feladat1\Dolgozat feladat1\obj\Debug\Dolgozat feladat1.pdb

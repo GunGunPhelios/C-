@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\obj\Debug\4es feladat doga.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\obj\Debug\4es feladat doga.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\bin\Debug\4es feladat doga.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\bin\Debug\4es feladat doga.exe
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\bin\Debug\4es feladat doga.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\obj\Debug\4es feladat doga.exe
+C:\Users\Asus-01\Desktop\C-SHARP\4es feladat doga\4es feladat doga\obj\Debug\4es feladat doga.pdb
