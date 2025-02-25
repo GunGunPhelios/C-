@@ -1,0 +1,2 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Nyaralas\obj\Debug\Nyaralas.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Nyaralas\obj\Debug\Nyaralas.csproj.CoreCompileInputs.cache
