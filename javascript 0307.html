@@ -18,6 +18,84 @@
             document.getElementById("nevKiiras").innerText="Üdv," + nev + "!";
         }
     </script>
+
+<label for="kor"> Kor</label>
+<input type="number" id="kor">
+<button onclick="EletkorEll()">Kiírás</button>
+<p id="korkiiras"></p>
+
+<script>
+    function EletkorEll() {
+        var kor=document.getElementById("kor").value;
+            if(kor <18) {
+            alert ("Nem vagy még nagykorú!") }
+            else
+            document.getElementById("korkiiras").innerText="Elmúltál 18, beléphetsz!"
+
+        
+    }
+</script>
+
+
+<label for="jelszó1"> jelszó</label>
+<input type="password" id="jelszó1">
+<button onclick="Jelszócheck()"> Submit</button>
+<p id="jelszokiiras"></p>
+
+
+<label for="jelszó2"> jelszómegerősítés</label>
+<input type="password" id="jelszó2">
+<button onclick="Jelszócheck()"> Submit</button>
+<p id="jelszokiiras"></p>
+
+
+
+
+<script>
+    function  Jelszócheck(){
+    var password1= document.getElementById("jelszokiiras").value;
+    var password2= document.getElementById("jelszokiiras").value;
+    if (password1===password2)
+        document.getElementById("jelszó1").value;
+        document.getElementById("jelszó2").value;
+        if (password1 ===password2)
+            document.getElementById("jelszócheck").innerText= "A jelszavak egyeznek!";
+        else {
+
+        }
+    }
+    }
+</script>
+
+<script>
+    function  email check(){
+    var email1= document.getElementById("email check").value;
+    var email2= document.getElementById("email check").value;
+    if (email1 !=email2){
+        alert ("Nem egyeznek az email címek!")
+    }
+    }
+</script>
+
     
+<form onsubmit="return ellenorizuresmezok">
+    <label for="nev">Név:</label>
+    <input type="text" name="" id="nevmezo">
+    <button type="submit"> Küldés</button>
+
+</form>
+<p id="uresmezofigyelmeztetes"></p>
+
+<script>
+    function ellenorizuresmezok(){
+        var nev= document.getElementById("nevmezo").value;
+        if (nev.trim()==="") {
+            document.getElementById("uresmezofigyelmeztetes").innerText= "A név mező nem lehet üres!";
+            return false;
+            
+        }
+        return true
+    }
+</script>
 </body>
 </html>
