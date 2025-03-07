@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js</title>
+</head>
+
+<body>
+    <label for="nev"> Név</label>
+    <input type="text" id="nev">
+    <button onclick="kiirNev()">Kiírás</button>
+    <p id="nevKiiras"></p>
+
+    <script>
+        function kiirNev() {
+            var nev= document.getElementById("nev").value;
+            document.getElementById("nevKiiras").innerText="Üdv," + nev + "!";
+        }
+    </script>
+    
+</body>
+</html>
