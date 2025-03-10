@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Asus-01\Desktop\C-SHARP\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
