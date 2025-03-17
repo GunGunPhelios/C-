@@ -1,0 +1,2 @@
+C:\Users\Asus-01\Desktop\C-SHARP\SZOJATEK\obj\Debug\SZOJATEK.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\SZOJATEK\obj\Debug\SZOJATEK.csproj.CoreCompileInputs.cache
