@@ -1,0 +1,2 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
