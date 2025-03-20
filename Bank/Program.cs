@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,11 +24,16 @@ namespace Bank
                 var (tulajdonos_nev, azonosito, pinkod) = tulajdonos.TulajdonosAdatai();
                 Create.TulajdonosAdatFeltolt(tulajdonos_nev, azonosito, pinkod);
                 Console.WriteLine("Sikeres volt az adatfeltöltés.");
+                Szamla szamla= new Szamla();
+                var (szamlaszam, egyenleg) = szamla.SzamlaLetrehozas();
+                Create.SzamlaFeltolt(tulajdonos_id,szamlaszam, egyenleg);
+                Console.WriteLine("Az adatok feltöltve.");
+
 
             }
             else
             {
-                if (ellenorzes.AdatEllenorzes(tulajdonos_neve, azonositas, pinkodmegad))
+                if (Ellenorzes.AdatEllenorzes(tulajdonos_neve, azonositas, pinkodmegad))
                 {
                     Console.WriteLine("Sikeresen belépett a fiókjába.");
                 }
