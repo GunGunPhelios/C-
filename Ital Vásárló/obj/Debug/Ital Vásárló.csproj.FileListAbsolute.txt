@@ -1,0 +1,10 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\bin\Debug\Ital Vásárló.exe.config
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\bin\Debug\Ital Vásárló.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\bin\Debug\Ital Vásárló.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital Vásárló.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital_Vásárló.Form1.resources
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital_Vásárló.Properties.Resources.resources
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital Vásárló.csproj.GenerateResource.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital Vásárló.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital Vásárló.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Ital Vásárló\obj\Debug\Ital Vásárló.pdb
