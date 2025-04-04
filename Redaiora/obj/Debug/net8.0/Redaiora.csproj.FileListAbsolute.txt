@@ -1,0 +1,14 @@
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.AssemblyInfoInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.AssemblyInfo.cs
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\bin\Debug\net8.0\Redaiora.exe
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\bin\Debug\net8.0\Redaiora.deps.json
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\bin\Debug\net8.0\Redaiora.runtimeconfig.json
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\bin\Debug\net8.0\Redaiora.dll
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\bin\Debug\net8.0\Redaiora.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.dll
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\refint\Redaiora.dll
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.pdb
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\Redaiora.genruntimeconfig.cache
+C:\Users\Asus-01\Desktop\C-SHARP\Redaiora\obj\Debug\net8.0\ref\Redaiora.dll
