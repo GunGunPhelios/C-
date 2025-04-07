@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Projekt
 {
-    public partial class Form1 : Form
+    public partial class Jinx:Aatrox:Aphelios
     {
         public Form1()
         {
