@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\obj\Debug\Cimletek.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\obj\Debug\Cimletek.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\bin\Debug\0506 Renata valtós.exe.config
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\bin\Debug\0506 Renata valtós.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\bin\Debug\0506 Renata valtós.pdb
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\obj\Debug\0506 Renata valtós.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Renata valtós\obj\Debug\0506 Renata valtós.pdb
