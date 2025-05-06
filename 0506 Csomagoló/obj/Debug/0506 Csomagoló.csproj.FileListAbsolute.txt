@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\obj\Debug\0506 Csomagoló.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\obj\Debug\0506 Csomagoló.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\bin\Debug\0506 Csomagoló.exe.config
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\bin\Debug\0506 Csomagoló.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\bin\Debug\0506 Csomagoló.pdb
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\obj\Debug\0506 Csomagoló.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Csomagoló\obj\Debug\0506 Csomagoló.pdb
