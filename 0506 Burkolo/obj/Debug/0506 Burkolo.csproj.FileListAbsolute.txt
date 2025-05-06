@@ -1,0 +1,7 @@
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\obj\Debug\0506 Burkolo.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\obj\Debug\0506 Burkolo.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\bin\Debug\0506 Burkolo.exe.config
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\bin\Debug\0506 Burkolo.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\bin\Debug\0506 Burkolo.pdb
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\obj\Debug\0506 Burkolo.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\0506 Burkolo\obj\Debug\0506 Burkolo.pdb
