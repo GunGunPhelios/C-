@@ -1,0 +1,10 @@
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.csproj.AssemblyReference.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.Form1.resources
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.Properties.Resources.resources
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.csproj.GenerateResource.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.csproj.CoreCompileInputs.cache
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\bin\Debug\Butorbolt.exe.config
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\bin\Debug\Butorbolt.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\bin\Debug\Butorbolt.pdb
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.exe
+C:\Users\Asus-01\Desktop\felnőtt\c#\Butorbolt\obj\Debug\Butorbolt.pdb

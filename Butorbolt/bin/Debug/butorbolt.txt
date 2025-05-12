@@ -1,0 +1,25 @@
+Kanapé;Sarokkanapé Oslo;180000;4;9
+Kanapé;Kinyitható kanapé Berlin;160000;5;7
+Kanapé;Bőr kanapé Denver;220000;3;4
+Szék;Étkezőszék Milano;18000;12;20
+Szék;Irodai szék ErgoPro;25000;8;11
+Szék;Hintaszék Relax;30000;6;5
+Asztal;Étkezőasztal Oslo;60000;4;6
+Asztal;Dohányzóasztal Classic;25000;5;7
+Asztal;Íróasztal Modern;35000;3;4
+Ágy;Franciaágy Harmony;120000;2;6
+Ágy;Egyszemélyes ágy Simple;80000;4;5
+Ágy;Ágyneműtartós ágy Extra;135000;3;3
+Szekrény;Gardróbszekrény Nova;150000;2;4
+Szekrény;Komód Bella;65000;5;6
+Szekrény;Fürdőszobai szekrény White;40000;6;5
+Polc;Könyvespolc Classic;28000;7;10
+Polc;Sarokpolc Compact;15000;9;12
+Polc;Állópolc Urban;20000;8;9
+Kiegészítő;Tükör Elegant;12000;10;15
+Kiegészítő;Fogas Modern;9000;12;14
+Kiegészítő;Lámpa;6700;4;6
+Asztal;Számítógép;13000;5;17
+Kiegészítő;Plüsspárna;2500;3;20
+Szekrény;Éjjeli szekrény;32000;4;6
+Szekrény;Éjjeli szekrény;32000;4;6
