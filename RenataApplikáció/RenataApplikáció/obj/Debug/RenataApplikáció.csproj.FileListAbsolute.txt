@@ -1,0 +1,10 @@
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.csproj.AssemblyReference.cache
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.Form1.resources
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.Properties.Resources.resources
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.csproj.GenerateResource.cache
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.csproj.CoreCompileInputs.cache
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\bin\Debug\RenataApplikáció.exe.config
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\bin\Debug\RenataApplikáció.exe
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\bin\Debug\RenataApplikáció.pdb
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.exe
+C:\Users\Dani\OneDrive\Dokumentumok\VSVSCODE\RenataApplikáció\RenataApplikáció\obj\Debug\RenataApplikáció.pdb
