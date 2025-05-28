@@ -38,18 +38,18 @@ namespace RenataApplikáció
 
         private void btnMentes_Click(object sender, EventArgs e)
         {
-            // Szövegek beolvasása
+           
             string orszag = textBox1.Text.Trim();
             string fovaros = textBox4.Text.Trim();
 
-            // Számok megtisztítása minden nem szám karaktertől
+           
             string teruletStr = Regex.Replace(textBox2.Text, @"[^\d]", "");
             string nepessegStr = Regex.Replace(textBox3.Text, @"[^\d]", "");
             string fovarosLakossagStr = Regex.Replace(textBox5.Text, @"[^\d]", "");
 
             
 
-            // Megpróbáljuk parse-olni
+           
             bool sikeresTerulet = long.TryParse(teruletStr, out long terulet);
             bool sikeresNepesseg = long.TryParse(nepessegStr, out long nepesseg);
             bool sikeresFovarosLakossag = long.TryParse(fovarosLakossagStr, out long fovarosLakossag);
